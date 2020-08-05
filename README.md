@@ -1,5 +1,5 @@
 # KotlinJetpackInAction
-这是一个简单到极致的项目，旨在帮助 Android 开发者快速掌握 Kotlin + Jetpack + MVVM 的开发模式。配套的技术博客也在掘金同步更新：[《Kotlin Jetpack 实战》](https://juejin.im/post/5ee624756fb9a047bb6a69cf)
+原作者掘金[《Kotlin Jetpack 实战》](https://juejin.im/post/5ee624756fb9a047bb6a69cf)
 
 
 ## 为什么要写这个项目?
