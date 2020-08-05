@@ -4,7 +4,6 @@ package com.boycoder.kotlinjetpackinaction
 
 const val EXTRA_PHOTO = "photo"
 const val SP_NAME = "data"
-const val SP_NAME1 = "data1"
 const val SP_KEY_RESPONSE = "data"
 
 
