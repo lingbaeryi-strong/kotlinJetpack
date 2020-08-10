@@ -6,7 +6,7 @@ import android.webkit.WebView
 import com.boycoder.kotlinjetpackinaction.R
 import com.boycoder.kotlinjetpackinaction.chapter.html
 
-class WebActivity : AppCompatActivity() {
+class wWebActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_web)

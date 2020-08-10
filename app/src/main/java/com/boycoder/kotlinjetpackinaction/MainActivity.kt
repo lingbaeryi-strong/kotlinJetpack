@@ -10,7 +10,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.edit
 import com.android.volley.Request
 import com.android.volley.RequestQueue
-import com.android.volley.Response
 import com.android.volley.toolbox.StringRequest
 import com.android.volley.toolbox.Volley
 import com.boycoder.kotlinjetpackinaction.chapter.c04.WebActivity
@@ -43,7 +42,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun init() {
-        display(spResponse?:"")
+        display(spResponse ?: "")
         requestOnlineInfo()
     }
 
